@@ -75,6 +75,14 @@ Providing payment creates an incentive and means to maintain wells in a function
 
 The central regions of the country may have fewer wells, likely due to lower population density. However, it's crucial for the government to ensure adequate water supply for the residents in those areas.
 
+***NEXT STEPS***
+Monitor the wells and update the model regularly to continuously improve our startegy
+
+Better data trained in our model will improve the predictions
+
+Learn cost of repairs, construction, and preventive maintenance
+
+Create a cost-benefit function to prioritize actions
 
 
 
