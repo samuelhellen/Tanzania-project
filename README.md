@@ -67,6 +67,7 @@ XG boost
 I settled on the XG boost as it was giving me a higher accuracy.
 
 ***RECOMMENDATIONS***
+
 Investments should be directed towards communal standpipes, rather than communal standpipe multiples, as the majority of the latter are non-functional.
 
 Priority should be given to non-functional wells and functional wells that need repair, provided they have sufficient water.
@@ -76,6 +77,7 @@ Providing payment creates an incentive and means to maintain wells in a function
 The central regions of the country may have fewer wells, likely due to lower population density. However, it's crucial for the government to ensure adequate water supply for the residents in those areas.
 
 ***NEXT STEPS***
+
 Monitor the wells and update the model regularly to continuously improve our startegy
 
 Better data trained in our model will improve the predictions
