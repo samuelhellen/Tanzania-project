@@ -1,17 +1,17 @@
-**TANZANIA WATER WELL PROJECT**
+***TANZANIA WATER WELL PROJECT***
 
 ![alt text](istockphoto-517534790-612x612.jpg)
  
-**PROJECT OVERVIEW**
+***PROJECT OVERVIEW***
 
 Water bodies are not just beautiful; they are essential for our survival. Water is vital for household use, economic activities like producing electricity, and maintaining health and hygiene.
 Recent data from the World Bank show that Tanzania has about 60 million people. Many Tanzanians still face challenges in getting clean and safe water (Nsemwa, 2022). Only 30.6% of Tanzanian households use recommended methods to treat water, and just 22.8% have proper hand-washing facilities (Ministry of Health, 2019). Poor sanitation leads to around 432,000 deaths from diarrhea each year and contributes to several neglected tropical diseases like intestinal worms, schistosomiasis, and trachoma. It also worsens malnutrition (WHO, 2019).
 
-**PROBLEM STATEMENT**
+***PROBLEM STATEMENT***
 
 Our NGO, Danida, is focused on finding and replacing water wells that need repair. Our classification model is being used to better predict which wells in the area are operational, need repairs or are non-functional using various information such as when each well was installed, who funded the project, and population around each well. Any improvement in determining the best wells to install or in the predictability of which wells need repairs could have an enormous impact on the people of Tanzania.
 
-**OBJECTIVES**
+***OBJECTIVES***
 
 Main Objective
 
@@ -25,7 +25,7 @@ Achieve 70%-75% accuracy in predicting well functionality.
 
 Evaluate the functionality status concerning payment type.
 
-**BUSINESS UNDERSTANDING**
+***BUSINESS UNDERSTANDING***
 
 The data is sourced from Taarifa and the Tanzanian Ministry of Water. Data utilized can be found here: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
 
