@@ -1,6 +1,6 @@
 TANZANIA WATER WELL PROJECT
 
-![alt text](download.jpg)
+![alt text](istockphoto-517534790-612x612.jpg)
  
 PROJECT OVERVIEW
 
