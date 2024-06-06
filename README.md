@@ -37,3 +37,44 @@ functional - the waterpoint is operational and there are no repairs needed
 functional needs repair - the waterpoint is operational, but needs repairs
 non functional - the waterpoint is not operational
 
+***DATA PREPARATION***
+
+During this phase of the analysis, the focus will be on addressing missing values, identifying and removing duplicated entries, resolving inconsistencies, and handling invalid data. Initially, we excluded irrelevant columns identified during the data understanding phase, as there is no need to prepare columns that will not be utilized in the analysis.
+
+*** Exploratory Data Analysis**
+
+In this phase of the investigation, the study will look at the trends, patterns using visualizations and statistics to show the relationships between the variables within the data
+we used the univariate and bivariate analysis on the data
+
+we found out that the most featured waterpoint type is communal standpipe followed by handpump. The least featured is dam.
+
+![alt text](image.png)
+
+Wells that are not payed for feature the most in this data, followed by pay per bucket, unknown and pay monthly.
+
+The least occuring are pay annually, pay when scheme fails and other.
+
+![alt text](image-1.png)
+
+***Modelling***
+
+To prepare our data to machine learning, we did some feature engineering, encoding.
+The following models were used:
+Decision trees
+Random forest
+XG boost
+
+I settled on the XG boost as it was giving me a higher accuracy.
+
+***RECOMMENDATIONS***
+Investments should be directed towards communal standpipes, rather than communal standpipe multiples, as the majority of the latter are non-functional.
+
+Priority should be given to non-functional wells and functional wells that need repair, provided they have sufficient water.
+
+Providing payment creates an incentive and means to maintain wells in a functional state.
+
+The central regions of the country may have fewer wells, likely due to lower population density. However, it's crucial for the government to ensure adequate water supply for the residents in those areas.
+
+
+
+
